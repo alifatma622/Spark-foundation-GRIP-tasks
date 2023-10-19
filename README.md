@@ -15,3 +15,7 @@ In this EDA task, we have to clean the data and visualize the same using differe
 5. task5:
 Exploratory Data Analysis - Sports¶
 In this EDA task, we have to clean the data and visualize the same using different methods in order to derive meaningful insights from the 2 given datasets of the famous Indian Premier League(IPL).
+6. task6:
+Prediction using Decision Tree Algorithm
+We have to create a Decision Tree classifier and visualize it graphically.
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
